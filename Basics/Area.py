@@ -1,0 +1,7 @@
+# Write a python programm to find the area of rectangle
+ 
+base=float(input("Enter the length of base :"))
+height=float(input("Enter the height of triangle:"))
+
+area=0.5*base*height
+print(f"The area of triangle is:{area}")
