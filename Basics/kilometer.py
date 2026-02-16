@@ -1,3 +1,6 @@
+"""
+Script to convert kilometers to miles.
+"""
 #  Write a python programm to convert kilometer to meter & miles
 
 kilometer=float(input("Enter the distance in Kilometer:"))
