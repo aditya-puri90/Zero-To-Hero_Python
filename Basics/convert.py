@@ -1,3 +1,6 @@
+"""
+Script to convert Celsius to Fahrenheit.
+"""
 # Write a python programm to convert the celsius to fahrenheit
 
 celsius=float(input("Enter the tempreture in celsius:"))
