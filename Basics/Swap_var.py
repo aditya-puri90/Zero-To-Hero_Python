@@ -1,3 +1,6 @@
+"""
+Script to swap two variables.
+"""
 # write a python programm to swap two variables
 
 a=input("enter the value of first variable(a):")
