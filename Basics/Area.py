@@ -1,3 +1,6 @@
+"""
+Script to calculate the area of a shape (e.g., triangle).
+"""
 # Write a python programm to find the area of rectangle
  
 base=float(input("Enter the length of base :"))
