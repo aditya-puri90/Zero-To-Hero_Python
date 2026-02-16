@@ -1,3 +1,6 @@
+"""
+Script to divide two numbers provided by the user.
+"""
 # Write the python programm to do arithmetic operation Division
 
 num1=float(input("Enter the num1:"))
