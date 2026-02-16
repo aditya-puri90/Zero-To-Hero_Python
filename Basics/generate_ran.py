@@ -1,3 +1,6 @@
+"""
+Script to generate a random number.
+"""
 # Write a python programm to generate the random number
 
 import random
