@@ -1,3 +1,6 @@
+"""
+Script to add two numbers provided by the user.
+"""
 # Write a python programm to do arithmetic operation Addition
 
 num1=float(input("Enter the number:"))
