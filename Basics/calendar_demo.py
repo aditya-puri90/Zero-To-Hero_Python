@@ -1,4 +1,3 @@
-
 #write a script to display the calendar for a given year and month.
 import calendar
 year=int(input("Enter the year:"))
