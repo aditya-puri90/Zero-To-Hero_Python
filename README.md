@@ -74,4 +74,6 @@ Perfect for:
 - Decimal to Binary/Octal/Hex
 - ASCII Value Finder
 
-
+**Auther**
+Aditya Puri
+(Data Analyst)
