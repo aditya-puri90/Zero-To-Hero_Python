@@ -1,5 +1,5 @@
 
-# 🐍 Zero to Hero – Python Practice Programs
+#  Zero to Hero – Python Practice Programs
 
 This repository contains **140+ basic to intermediate Python programs** designed to help beginners build strong programming fundamentals and prepare for interviews.
 
